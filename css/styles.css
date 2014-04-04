@@ -15,7 +15,7 @@ h1 {
     display:inline;
     font-size: 17px;
     font-family: Calibri;
-  f  font-weight: normal;
+    font-weight: normal;
     text-align: center;
     top:4px;
     position: relative;
@@ -50,7 +50,7 @@ h1 {
     margin-top: 8px;
     border: 1px solid grey;
 }
-#menu li:hover:first-letter{
+#menu li:hover:first-letter {
     text-decoration: underline;
 }
 #menu {
@@ -65,7 +65,7 @@ h1 {
     margin-top:2px;
     font-family: Calibri;
 }
-#menu:hover:first-letter{
+#menu:hover:first-letter {
     color:red;
 }
 #calc-header {
@@ -330,5 +330,4 @@ button {
     background-color: rgb(213, 231, 248);
     border: 1px solid rgb(116, 170, 226);
     margin: 0;
-
 }
